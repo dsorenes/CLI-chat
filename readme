@@ -1,0 +1,7 @@
+Simple CLI-chat application written in node
+
+*Have server.js running
+*Connect a client to the server by typing "node client.js --username (username)"
+
+Still bugs, and has external dependencies. Have plans to rewrite it to node's own 'net' module
+
